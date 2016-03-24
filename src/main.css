@@ -1,0 +1,44 @@
+html, body {
+  font-size: 14px;
+  font-family: Helvetica, Arial; }
+
+.main-wrap {
+  max-width: 500px;
+  margin: 0 auto;
+  background: #f7f7f7;
+  padding: 30px 10px 100px 10px; }
+
+p {
+  line-height: 2rem; }
+
+a {
+  color: #6D9CD5;
+  text-decoration: none;
+  border-bottom: 1px dashed; }
+
+img {
+  max-width: 100%; }
+
+h1 {
+  text-align: center; }
+
+section {
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 20px #e4e4e4; }
+
+.browser-view {
+  text-align: right;
+  font-size: 10px; }
+
+.btn {
+  max-width: 100px;
+  background: #A7FFAC;
+  padding: 10px;
+  border-radius: 3px;
+  color: #fff;
+  border-bottom: none;
+  display: block;
+  text-align: center;
+  margin: 0 auto; }
